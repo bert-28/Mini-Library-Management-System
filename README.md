@@ -4,7 +4,7 @@
 <img width="250" height="250" alt="Logo" src="https://github.com/user-attachments/assets/88c62f27-de7e-4537-b572-e21d2979f85d" />
 
 ### Nomuk Summer Class
-A custom-built UI for managing library records, built from scratch using HTML, Java, PHP and MySQL.
+A custom-built UI for managing library records, built from scratch using HTML, JavaScript, PHP and MySQL.
 
 
 ## Screenshots
